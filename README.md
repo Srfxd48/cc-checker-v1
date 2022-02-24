@@ -2,7 +2,7 @@
 Credit Card Checker Stripe Charger 
 ![PHP](https://img.shields.io/badge/language-PHP-blue.svg)
 ![BANDITCODING](https://img.shields.io/badge/Team-Banditcoding-green)
-![AUTHOR](https://img.shields.io/badge/Author-Zlaxtert-orange)
+
 
 ## Install on desktop : 
 - Install XAMPP
@@ -13,10 +13,10 @@ Credit Card Checker Stripe Charger
 ## Install on android (Termux)
     $ pkg install git -y
     $ pkg install php -y
-    $ git clone https://github.com/Zlaxtert/cc-checkerV1
+    $ git clone https://github.com/Srfxd48/cc-checker-v1
     $ cd cc-checkerV1
     $ php cc.php
 
-## Screenshot
-<img src="img/bg.jpg">
+
+
 
